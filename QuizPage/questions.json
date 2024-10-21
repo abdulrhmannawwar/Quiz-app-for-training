@@ -1,0 +1,791 @@
+[
+    {
+        "label": "Chemistry",
+        "level": "Easy",
+        "questions": [
+            {
+                "question": "What is the chemical symbol for oxygen?",
+                "options": ["O", "O2", "O3", "H2O"],
+                "correct_answer": "O"
+            },
+            {
+                "question": "What is the most common element in the universe?",
+                "options": ["Carbon", "Nitrogen", "Hydrogen", "Helium"],
+                "correct_answer": "Hydrogen"
+            },
+            {
+                "question": "What is the molecular formula of water?",
+                "options": ["H2O", "HO2", "H2O2", "OH"],
+                "correct_answer": "H2O"
+            },
+            {
+                "question": "Which gas is essential for human respiration?",
+                "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+                "correct_answer": "Oxygen"
+            },
+            {
+                "question": "Which element is represented by the symbol Na?",
+                "options": ["Nitrogen", "Sodium", "Neon", "Nickel"],
+                "correct_answer": "Sodium"
+            },
+            {
+                "question": "What is the pH level of pure water?",
+                "options": ["7", "5", "9", "6"],
+                "correct_answer": "7"
+            },
+            {
+                "question": "Which of these elements is a noble gas?",
+                "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+                "correct_answer": "Helium"
+            },
+            {
+                "question": "What is the chemical formula for carbon dioxide?",
+                "options": ["CO", "CO2", "C2O", "O2C"],
+                "correct_answer": "CO2"
+            },
+            {
+                "question": "Which element has the atomic number 1?",
+                "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+                "correct_answer": "Hydrogen"
+            },
+            {
+                "question": "What is the state of matter of mercury at room temperature?",
+                "options": ["Solid", "Liquid", "Gas", "Plasma"],
+                "correct_answer": "Liquid"
+            }
+        ]
+    },
+    {
+        "label": "Chemistry",
+        "level": "Medium",
+        "questions": [
+            {
+                "question": "What is the primary gas found in Earth's atmosphere?",
+                "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+                "correct_answer": "Nitrogen"
+            },
+            {
+                "question": "What is the atomic number of carbon?",
+                "options": ["6", "8", "12", "14"],
+                "correct_answer": "6"
+            },
+            {
+                "question": "Which acid is found in the human stomach?",
+                "options": [
+                    "Sulfuric acid",
+                    "Hydrochloric acid",
+                    "Nitric acid",
+                    "Acetic acid"
+                ],
+                "correct_answer": "Hydrochloric acid"
+            },
+            {
+                "question": "What is the chemical formula for table salt?",
+                "options": ["KCl", "NaCl", "CaCl2", "MgCl2"],
+                "correct_answer": "NaCl"
+            },
+            {
+                "question": "What is the main component of the Earth's atmosphere?",
+                "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+                "correct_answer": "Nitrogen"
+            },
+            {
+                "question": "What is the atomic mass of carbon?",
+                "options": ["12.01", "14.01", "16.00", "18.02"],
+                "correct_answer": "12.01"
+            },
+            {
+                "question": "What type of bond involves the sharing of electron pairs?",
+                "options": [
+                    "Ionic bond",
+                    "Covalent bond",
+                    "Metallic bond",
+                    "Hydrogen bond"
+                ],
+                "correct_answer": "Covalent bond"
+            },
+            {
+                "question": "What is the pH of stomach acid?",
+                "options": ["1", "3", "5", "7"],
+                "correct_answer": "1"
+            },
+            {
+                "question": "Which of the following is a saturated hydrocarbon?",
+                "options": ["C2H4", "C3H8", "C4H6", "C5H10"],
+                "correct_answer": "C3H8"
+            },
+            {
+                "question": "What is the chemical name for rust?",
+                "options": [
+                    "Iron oxide",
+                    "Iron sulfate",
+                    "Iron chloride",
+                    "Iron phosphate"
+                ],
+                "correct_answer": "Iron oxide"
+            }
+        ]
+    },
+    {
+        "label": "Chemistry",
+        "level": "Hard",
+        "questions": [
+            {
+                "question": "What is the principle behind chromatography?",
+                "options": [
+                    "Separation based on boiling points.",
+                    "Separation based on solubility.",
+                    "Separation based on molecular weight.",
+                    "Separation based on color."
+                ],
+                "correct_answer": "Separation based on solubility."
+            },
+            {
+                "question": "What is the main difference between an ionic bond and a covalent bond?",
+                "options": [
+                    "Ionic bonds involve the transfer of electrons, covalent bonds involve sharing.",
+                    "Covalent bonds are stronger than ionic bonds.",
+                    "Ionic bonds occur between nonmetals, covalent bonds occur between metals.",
+                    "Ionic bonds involve sharing of electrons, covalent bonds involve transfer."
+                ],
+                "correct_answer": "Ionic bonds involve the transfer of electrons, covalent bonds involve sharing."
+            },
+            {
+                "question": "What is Avogadro's number?",
+                "options": ["6.022 x 10^23", "3.14", "1.602 x 10^-19", "9.81"],
+                "correct_answer": "6.022 x 10^23"
+            },
+            {
+                "question": "Which reaction is an example of an endothermic process?",
+                "options": [
+                    "Combustion",
+                    "Photosynthesis",
+                    "Respiration",
+                    "Neutralization"
+                ],
+                "correct_answer": "Photosynthesis"
+            },
+            {
+                "question": "What is the term for the energy required to start a reaction?",
+                "options": [
+                    "Activation energy",
+                    "Potential energy",
+                    "Kinetic energy",
+                    "Thermal energy"
+                ],
+                "correct_answer": "Activation energy"
+            },
+            {
+                "question": "What is the difference between an acid and a base?",
+                "options": [
+                    "Acids donate protons, bases accept protons.",
+                    "Acids have a bitter taste, bases have a sour taste.",
+                    "Acids are slippery, bases are not.",
+                    "Acids turn blue litmus red, bases do not."
+                ],
+                "correct_answer": "Acids donate protons, bases accept protons."
+            },
+            {
+                "question": "What is the main product of cellular respiration?",
+                "options": ["Glucose", "Oxygen", "Carbon Dioxide", "Water"],
+                "correct_answer": "Carbon Dioxide"
+            },
+            {
+                "question": "What is the law of conservation of mass?",
+                "options": [
+                    "Mass can be created or destroyed.",
+                    "Mass is conserved in chemical reactions.",
+                    "Mass changes in nuclear reactions.",
+                    "Mass is always greater than energy."
+                ],
+                "correct_answer": "Mass is conserved in chemical reactions."
+            },
+            {
+                "question": "What is the role of a catalyst in a chemical reaction?",
+                "options": [
+                    "Increases the temperature of the reaction.",
+                    "Increases the rate of reaction without being consumed.",
+                    "Decreases the energy required for the reaction.",
+                    "Changes the products of the reaction."
+                ],
+                "correct_answer": "Increases the rate of reaction without being consumed."
+            },
+            {
+                "question": "What is the term for the equilibrium constant of a reaction?",
+                "options": ["Keq", "Ksp", "Ka", "Kb"],
+                "correct_answer": "Keq"
+            }
+        ]
+    },
+    {
+        "label": "Physics",
+        "level": "Easy",
+        "questions": [
+            {
+                "question": "What is the SI unit of force?",
+                "options": ["Joule", "Newton", "Watt", "Pascal"],
+                "correct_answer": "Newton"
+            },
+            {
+                "question": "What is the speed of light?",
+                "options": [
+                    "300,000 km/s",
+                    "150,000 km/s",
+                    "3,000 km/s",
+                    "30,000 km/s"
+                ],
+                "correct_answer": "300,000 km/s"
+            },
+            {
+                "question": "What is the law of inertia?",
+                "options": [
+                    "An object at rest stays at rest.",
+                    "For every action, there is an equal and opposite reaction.",
+                    "The acceleration of an object is directly proportional to the net force acting on it.",
+                    "Energy cannot be created or destroyed."
+                ],
+                "correct_answer": "An object at rest stays at rest."
+            },
+            {
+                "question": "What is the formula for kinetic energy?",
+                "options": ["mv", "mgh", "1/2 mv²", "F=ma"],
+                "correct_answer": "1/2 mv²"
+            },
+            {
+                "question": "What is the primary force that causes objects to fall to Earth?",
+                "options": [
+                    "Friction",
+                    "Gravity",
+                    "Magnetism",
+                    "Air resistance"
+                ],
+                "correct_answer": "Gravity"
+            },
+            {
+                "question": "What is the unit of electrical resistance?",
+                "options": ["Volt", "Ohm", "Ampere", "Watt"],
+                "correct_answer": "Ohm"
+            },
+            {
+                "question": "What is the process of converting solid to gas called?",
+                "options": [
+                    "Evaporation",
+                    "Condensation",
+                    "Sublimation",
+                    "Deposition"
+                ],
+                "correct_answer": "Sublimation"
+            },
+            {
+                "question": "What is the formula for calculating work?",
+                "options": [
+                    "Force × Distance",
+                    "Mass × Acceleration",
+                    "Power × Time",
+                    "Energy × Time"
+                ],
+                "correct_answer": "Force × Distance"
+            },
+            {
+                "question": "What is the unit of energy?",
+                "options": ["Joule", "Newton", "Watt", "Pascal"],
+                "correct_answer": "Joule"
+            },
+            {
+                "question": "What is the principle of conservation of energy?",
+                "options": [
+                    "Energy can be created.",
+                    "Energy can be destroyed.",
+                    "Energy cannot be created or destroyed.",
+                    "Energy increases over time."
+                ],
+                "correct_answer": "Energy cannot be created or destroyed."
+            }
+        ]
+    },
+    {
+        "label": "Physics",
+        "level": "Medium",
+        "questions": [
+            {
+                "question": "What is the gravitational force on an object near the Earth's surface?",
+                "options": ["9.8 m/s²", "8.9 m/s²", "10.2 m/s²", "9.0 m/s²"],
+                "correct_answer": "9.8 m/s²"
+            },
+            {
+                "question": "What is the formula for calculating the period of a wave?",
+                "options": [
+                    "Frequency × Wavelength",
+                    "Speed / Frequency",
+                    "Wavelength / Speed",
+                    "Speed × Frequency"
+                ],
+                "correct_answer": "Speed / Frequency"
+            },
+            {
+                "question": "What is the unit of frequency?",
+                "options": ["Hertz", "Joule", "Newton", "Pascal"],
+                "correct_answer": "Hertz"
+            },
+            {
+                "question": "What type of energy is stored in an object due to its position?",
+                "options": [
+                    "Kinetic energy",
+                    "Potential energy",
+                    "Thermal energy",
+                    "Mechanical energy"
+                ],
+                "correct_answer": "Potential energy"
+            },
+            {
+                "question": "What is the phenomenon where light changes direction as it passes from one medium to another?",
+                "options": [
+                    "Reflection",
+                    "Refraction",
+                    "Diffraction",
+                    "Dispersion"
+                ],
+                "correct_answer": "Refraction"
+            },
+            {
+                "question": "What is the law of conservation of momentum?",
+                "options": [
+                    "Momentum is conserved in closed systems.",
+                    "Momentum is always increasing.",
+                    "Momentum can be created.",
+                    "Momentum is always decreasing."
+                ],
+                "correct_answer": "Momentum is conserved in closed systems."
+            },
+            {
+                "question": "What is the term for the amount of matter in an object?",
+                "options": ["Weight", "Volume", "Mass", "Density"],
+                "correct_answer": "Mass"
+            },
+            {
+                "question": "What is the effect of temperature on the resistance of a conductor?",
+                "options": [
+                    "Resistance increases with temperature.",
+                    "Resistance decreases with temperature.",
+                    "Resistance remains constant.",
+                    "Temperature has no effect on resistance."
+                ],
+                "correct_answer": "Resistance increases with temperature."
+            },
+            {
+                "question": "What is the type of wave that requires a medium to travel?",
+                "options": [
+                    "Electromagnetic wave",
+                    "Transverse wave",
+                    "Longitudinal wave",
+                    "Mechanical wave"
+                ],
+                "correct_answer": "Mechanical wave"
+            },
+            {
+                "question": "What is the name of the device that measures atmospheric pressure?",
+                "options": [
+                    "Thermometer",
+                    "Barometer",
+                    "Anemometer",
+                    "Hydrometer"
+                ],
+                "correct_answer": "Barometer"
+            }
+        ]
+    },
+    {
+        "label": "Physics",
+        "level": "Hard",
+        "questions": [
+            {
+                "question": "What is the photoelectric effect?",
+                "options": [
+                    "The emission of electrons from a material when light shines on it.",
+                    "The bending of light when it passes through a prism.",
+                    "The increase in temperature of a material when exposed to light.",
+                    "The scattering of light by particles."
+                ],
+                "correct_answer": "The emission of electrons from a material when light shines on it."
+            },
+            {
+                "question": "What is the uncertainty principle?",
+                "options": [
+                    "The more accurately we know the position of a particle, the less accurately we can know its momentum.",
+                    "Energy and mass are interchangeable.",
+                    "Particles can exist in multiple states at once.",
+                    "The behavior of particles can only be predicted statistically."
+                ],
+                "correct_answer": "The more accurately we know the position of a particle, the less accurately we can know its momentum."
+            },
+            {
+                "question": "What is the standard unit of electric current?",
+                "options": ["Volt", "Ohm", "Ampere", "Watt"],
+                "correct_answer": "Ampere"
+            },
+            {
+                "question": "What is the principle of superposition in wave theory?",
+                "options": [
+                    "Waves can cancel each other out.",
+                    "Waves can combine to produce a new wave.",
+                    "Waves can reflect off surfaces.",
+                    "Waves can travel through each other."
+                ],
+                "correct_answer": "Waves can combine to produce a new wave."
+            },
+            {
+                "question": "What is the main force acting on a satellite in orbit?",
+                "options": [
+                    "Gravitational force.",
+                    "Electromagnetic force.",
+                    "Frictional force.",
+                    "Centrifugal force."
+                ],
+                "correct_answer": "Gravitational force."
+            },
+            {
+                "question": "What is the energy associated with an object due to its motion called?",
+                "options": [
+                    "Potential energy.",
+                    "Kinetic energy.",
+                    "Mechanical energy.",
+                    "Thermal energy."
+                ],
+                "correct_answer": "Kinetic energy."
+            },
+            {
+                "question": "What is the main characteristic of an isotropic material?",
+                "options": [
+                    "Properties are the same in all directions.",
+                    "Properties vary with direction.",
+                    "Has a uniform density.",
+                    "Is transparent."
+                ],
+                "correct_answer": "Properties are the same in all directions."
+            },
+            {
+                "question": "What is the difference between scalar and vector quantities?",
+                "options": [
+                    "Scalar has magnitude only; vector has both magnitude and direction.",
+                    "Vector has magnitude only; scalar has both magnitude and direction.",
+                    "Scalar can be negative; vector cannot.",
+                    "Vector is always larger than scalar."
+                ],
+                "correct_answer": "Scalar has magnitude only; vector has both magnitude and direction."
+            },
+            {
+                "question": "What is the term for the bending of light as it passes around an obstacle?",
+                "options": [
+                    "Reflection.",
+                    "Refraction.",
+                    "Diffraction.",
+                    "Dispersion."
+                ],
+                "correct_answer": "Diffraction."
+            },
+            {
+                "question": "What is the main principle behind the operation of a transformer?",
+                "options": [
+                    "Electromagnetic induction.",
+                    "Static electricity.",
+                    "Thermodynamics.",
+                    "Magnetism."
+                ],
+                "correct_answer": "Electromagnetic induction."
+            }
+        ]
+    },
+    {
+        "label": "Biology",
+        "level": "Easy",
+        "questions": [
+            {
+                "question": "What is the basic unit of life?",
+                "options": ["Tissue", "Organ", "Cell", "Organism"],
+                "correct_answer": "Cell"
+            },
+            {
+                "question": "Which organ is responsible for pumping blood?",
+                "options": ["Liver", "Lung", "Heart", "Kidney"],
+                "correct_answer": "Heart"
+            },
+            {
+                "question": "What is the primary function of the respiratory system?",
+                "options": [
+                    "To digest food",
+                    "To circulate blood",
+                    "To exchange gases",
+                    "To produce hormones"
+                ],
+                "correct_answer": "To exchange gases"
+            },
+            {
+                "question": "Which part of the cell is known as the powerhouse?",
+                "options": [
+                    "Nucleus",
+                    "Mitochondria",
+                    "Ribosome",
+                    "Endoplasmic reticulum"
+                ],
+                "correct_answer": "Mitochondria"
+            },
+            {
+                "question": "What is the main function of red blood cells?",
+                "options": [
+                    "To carry carbon dioxide",
+                    "To fight infections",
+                    "To carry oxygen",
+                    "To produce hormones"
+                ],
+                "correct_answer": "To carry oxygen"
+            },
+            {
+                "question": "What is DNA?",
+                "options": [
+                    "A type of protein.",
+                    "A molecule that carries genetic information.",
+                    "A carbohydrate.",
+                    "An enzyme."
+                ],
+                "correct_answer": "A molecule that carries genetic information."
+            },
+            {
+                "question": "Which part of the cell contains the genetic material?",
+                "options": [
+                    "Cytoplasm",
+                    "Nucleus",
+                    "Cell membrane",
+                    "Ribosome"
+                ],
+                "correct_answer": "Nucleus"
+            },
+            {
+                "question": "What is the main function of the digestive system?",
+                "options": [
+                    "To exchange gases.",
+                    "To produce hormones.",
+                    "To break down food.",
+                    "To circulate blood."
+                ],
+                "correct_answer": "To break down food."
+            },
+            {
+                "question": "What is the largest organ in the human body?",
+                "options": ["Heart", "Lung", "Liver", "Skin"],
+                "correct_answer": "Skin"
+            },
+            {
+                "question": "What is photosynthesis?",
+                "options": [
+                    "The process by which plants make their food.",
+                    "The process of cellular respiration.",
+                    "The breakdown of food.",
+                    "The movement of water in plants."
+                ],
+                "correct_answer": "The process by which plants make their food."
+            }
+        ]
+    },
+    {
+        "label": "Biology",
+        "level": "Medium",
+        "questions": [
+            {
+                "question": "What is the primary function of the nervous system?",
+                "options": [
+                    "To transport nutrients.",
+                    "To coordinate and control body activities.",
+                    "To exchange gases.",
+                    "To produce hormones."
+                ],
+                "correct_answer": "To coordinate and control body activities."
+            },
+            {
+                "question": "What is the main function of the immune system?",
+                "options": [
+                    "To produce hormones.",
+                    "To fight infections.",
+                    "To digest food.",
+                    "To circulate blood."
+                ],
+                "correct_answer": "To fight infections."
+            },
+            {
+                "question": "What are the building blocks of proteins?",
+                "options": [
+                    "Sugars.",
+                    "Fatty acids.",
+                    "Amino acids.",
+                    "Nucleotides."
+                ],
+                "correct_answer": "Amino acids."
+            },
+            {
+                "question": "Which organ is responsible for detoxifying chemicals?",
+                "options": ["Heart.", "Kidney.", "Liver.", "Lung."],
+                "correct_answer": "Liver."
+            },
+            {
+                "question": "What is the process by which cells divide?",
+                "options": [
+                    "Transcription.",
+                    "Translation.",
+                    "Mitosis.",
+                    "Replication."
+                ],
+                "correct_answer": "Mitosis."
+            },
+            {
+                "question": "What is the term for a change in an organism's environment that causes a response?",
+                "options": [
+                    "Stimulus.",
+                    "Receptor.",
+                    "Response.",
+                    "Adaptation."
+                ],
+                "correct_answer": "Stimulus."
+            },
+            {
+                "question": "Which type of RNA is involved in protein synthesis?",
+                "options": ["mRNA.", "tRNA.", "rRNA.", "All of the above."],
+                "correct_answer": "All of the above."
+            },
+            {
+                "question": "What is homeostasis?",
+                "options": [
+                    "The process of growth.",
+                    "The maintenance of stable internal conditions.",
+                    "The production of energy.",
+                    "The breakdown of waste."
+                ],
+                "correct_answer": "The maintenance of stable internal conditions."
+            },
+            {
+                "question": "What is the function of chlorophyll?",
+                "options": [
+                    "To absorb light energy.",
+                    "To transport nutrients.",
+                    "To produce glucose.",
+                    "To release oxygen."
+                ],
+                "correct_answer": "To absorb light energy."
+            },
+            {
+                "question": "What is the primary role of the circulatory system?",
+                "options": [
+                    "To provide support.",
+                    "To transport oxygen and nutrients.",
+                    "To digest food.",
+                    "To control body temperature."
+                ],
+                "correct_answer": "To transport oxygen and nutrients."
+            }
+        ]
+    },
+    {
+        "label": "Biology",
+        "level": "Hard",
+        "questions": [
+            {
+                "question": "What is the primary function of ribosomes?",
+                "options": [
+                    "Protein synthesis.",
+                    "Energy production.",
+                    "DNA replication.",
+                    "Cell division."
+                ],
+                "correct_answer": "Protein synthesis."
+            },
+            {
+                "question": "What is the process of converting glucose into energy called?",
+                "options": [
+                    "Photosynthesis.",
+                    "Respiration.",
+                    "Fermentation.",
+                    "Digestion."
+                ],
+                "correct_answer": "Respiration."
+            },
+            {
+                "question": "What type of cell division produces gametes?",
+                "options": [
+                    "Mitosis.",
+                    "Meiosis.",
+                    "Binary fission.",
+                    "Budding."
+                ],
+                "correct_answer": "Meiosis."
+            },
+            {
+                "question": "What is the function of enzymes in biological reactions?",
+                "options": [
+                    "To increase the temperature.",
+                    "To act as a catalyst.",
+                    "To change the pH.",
+                    "To provide energy."
+                ],
+                "correct_answer": "To act as a catalyst."
+            },
+            {
+                "question": "What is the primary component of the cell membrane?",
+                "options": [
+                    "Carbohydrates.",
+                    "Proteins.",
+                    "Phospholipids.",
+                    "Nucleic acids."
+                ],
+                "correct_answer": "Phospholipids."
+            },
+            {
+                "question": "What is the term for the genetic makeup of an organism?",
+                "options": [
+                    "Phenotype.",
+                    "Genotype.",
+                    "Homozygous.",
+                    "Heterozygous."
+                ],
+                "correct_answer": "Genotype."
+            },
+            {
+                "question": "What is the role of the pancreas in the body?",
+                "options": [
+                    "To filter blood.",
+                    "To produce insulin and glucagon.",
+                    "To store bile.",
+                    "To produce red blood cells."
+                ],
+                "correct_answer": "To produce insulin and glucagon."
+            },
+            {
+                "question": "What is the primary function of the hypothalamus?",
+                "options": [
+                    "To regulate body temperature.",
+                    "To control emotions.",
+                    "To coordinate movement.",
+                    "To produce hormones."
+                ],
+                "correct_answer": "To regulate body temperature."
+            },
+            {
+                "question": "What is the term for a change in the DNA sequence?",
+                "options": [
+                    "Mutation.",
+                    "Transcription.",
+                    "Replication.",
+                    "Translation."
+                ],
+                "correct_answer": "Mutation."
+            },
+            {
+                "question": "What is the process of transferring genetic information from DNA to mRNA called?",
+                "options": [
+                    "Translation.",
+                    "Replication.",
+                    "Transcription.",
+                    "Translocation."
+                ],
+                "correct_answer": "Transcription."
+            }
+        ]
+    }
+]

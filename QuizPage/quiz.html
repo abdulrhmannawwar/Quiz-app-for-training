@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <div class="topicChoosing">
+        <h1>Choose Your Topic</h1>
+        <div class="topics">
+            <div class="topic" id="physics">Physics</div>
+            <div class="topic" id="chemistry">Chemistry</div>
+            <div class="topic" id="biology">Biology</div>
+        </div>
+    </div>
+    <div class="topicLevel">
+        <h1>Choose The Level</h1>
+        <div class="levels">
+            <div class="level" id="easy">Easy</div>
+            <div class="level" id="medium">Medium</div>
+            <div class="level" id="hard">Hard</div>
+        </div>
+    </div>
+    <div class="questionsContainer">
+        <h1>Question number <span class="questionNumber">X</span></h1>
+        <h2 class="question">X</h2>
+        <div class="options">
+            <div class="option">X</div>
+            <div class="option">X</div>
+            <div class="option">X</div>
+            <div class="option">X</div>
+            <div class="timer"></div>
+        </div>
+    </div>
+    <div class="resultsContainer">
+        <h2>Your result is <span class="result">X</span></h2>
+        <h3 class="rating"></h3>
+        <div>
+            <button id="restartBtn">Restart</button>
+            <a href="../index.html" class="back">Back to login</a>
+        </div>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>
